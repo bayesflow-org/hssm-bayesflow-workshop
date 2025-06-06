@@ -1,0 +1,12 @@
+[project]
+name = "hssm-bayesflow-workshop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bayesflow>=2.0.3",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.4.3",
+    "tensorflow>=2.18.1",
+]
