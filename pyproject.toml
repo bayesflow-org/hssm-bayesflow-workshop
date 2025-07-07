@@ -29,6 +29,7 @@ dependencies = [
     "matplotlib",
     "seaborn",
     "pandas",
+    "pyarrow",
     # "arviz>=0.12.0",
     # "jax>=0.4.0",
     # "jaxlib>=0.4.0",
