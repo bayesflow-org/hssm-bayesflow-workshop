@@ -22,6 +22,24 @@ cd hssm-bayesflow-workshop
 
 ### 2. Install the necessary packages
 
+#### Option A: Using uv (recommended)
+
+This repository includes a `pyproject.toml` file for easy dependency management with `uv`. If you have `uv` installed, you can set up the environment with:
+
+```bash
+# Install uv if you don't have it
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Create and activate a virtual environment with all dependencies
+uv venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Install dependencies
+uv pip install -e .
+```
+
+#### Option B: Using pip
+
 Make sure to install BayesFlow and SSMS for the Python version you use for this workshop:
 
 ```bash
