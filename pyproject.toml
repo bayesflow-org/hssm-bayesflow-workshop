@@ -23,20 +23,13 @@ classifiers = [
 ]
 
 dependencies = [
-    "bayesflow>=1.0.0",
+    "bayesflow>=2.0.6",
     "ssm-simulators>=0.10.0",
     "numpy>=2.0",
     "matplotlib",
     "seaborn",
     "pandas",
     "pyarrow",
-    # "arviz>=0.12.0",
-    # "jax>=0.4.0",
-    # "jaxlib>=0.4.0",
-    # "pytensor>=2.0.0",
-    # "hssm>=0.1.0",
-    # "jupyter>=1.0.0",
-    # "ipykernel>=6.0.0",
 ]
 
 [dependency-groups]
