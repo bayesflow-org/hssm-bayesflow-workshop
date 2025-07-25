@@ -1,8 +1,20 @@
-# Transforming Cognitive Modeling Workflow with BayesFlow
+# Transforming Cognitive Modeling Workflow with BayesFlow and HSSM
 
-Welcome to the tutorial repo on supercharging cognitive modeling workflow with simulation-based inference (SBI). In this tutorial, we will harness the power of deep learning through [BayesFlow](\https://bayesflow.org) by applying it to the powerful [Sequential Sampling Model Simulators (SSMS)](https://lnccbrown.github.io/ssm-simulators/api/ssms/). By the end of this tutorial, you will get the best of both worlds and be empowered to accelerate your cognitive modeling workflow!
+Welcome to the tutorial repo on supercharging cognitive modeling workflow with simulation-based inference (SBI).
+For the simulation part, we will use the [Sequential Sampling Model Simulators (SSMS)](https://lnccbrown.github.io/ssm-simulators/api/ssms/) Package.
 
-## ⚙️ Getting Started
+We will illustrate posterior amortization, likelihood amortization and focus on aspects of scientific workflows that can benefit from each.
+You will learn about the powerful [BayesFlow](\https://bayesflow.org) and [HSSM](https://github.com/lnccbrown/HSSM) toolboxes and how to leverage both respectively to supercharge you cognitive modeling.
+
+Check the official [course website](https://sites.google.com/view/sbi-workshop-mathpsych2025/home) for the schedule and more general information about the workshop.
+
+## Colab setup
+
+All notebooks should be runnable directly via **colab** and this is the preferred mode of interaction with the tutorial material.
+
+## Local setup
+
+If you rather have a local setup, the instructions below should help you get started.
 
 ### 1. Get the Workshop Materials
 
