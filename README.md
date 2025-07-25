@@ -12,6 +12,8 @@ Check the official [course website](https://sites.google.com/view/sbi-workshop-m
 
 All notebooks should be runnable directly via **colab** and this is the preferred mode of interaction with the tutorial material.
 
+1. [HSSM/PyMC tutorial link](https://githubtocolab.com/bayesflow-org/hssm-bayesflow-workshop/blob/main/notebooks/rv_to_hssm.ipynb)
+
 ## Local setup
 
 If you rather have a local setup, the instructions below should help you get started.
